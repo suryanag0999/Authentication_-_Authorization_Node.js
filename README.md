@@ -58,4 +58,7 @@ Copy code
 npm run dev
 Server will run on http://localhost:5000
 
+leran more on hashnode 
+https://auth-system-nodejs-jwt.hashnode.dev/user-authentication-and-authorization-system-in-nodejs
+
 
