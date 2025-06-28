@@ -35,6 +35,27 @@ mini-auth-system/
 ├── app.js # Express setup and middleware
 ├── .env.example # Environment variable template
 └── .gitignore # Excludes .env and node_modules
+2. Install dependencies
+bash
+Copy code
+npm install
+3. Create a .env file
+Create a .env file in the root directory and add the following:
 
+env
+Copy code
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/authdemo
+JWT_SECRET=your_jwt_secret_key
+Or copy from .env.example and edit:
+
+bash
+Copy code
+cp .env.example .env
+4. Start the server
+bash
+Copy code
+npm run dev
+Server will run on http://localhost:5000
 
 
