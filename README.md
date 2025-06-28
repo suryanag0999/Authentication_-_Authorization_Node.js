@@ -36,14 +36,5 @@ mini-auth-system/
 ├── .env.example # Environment variable template
 └── .gitignore # Excludes .env and node_modules
 
-yaml
-Copy code
 
----
-
-## ⚙️ Getting Started
-
-### 1. Clone the repo
-
-```ba
 
